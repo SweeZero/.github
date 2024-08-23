@@ -1,1 +1,1 @@
-SweeZero is a fictional company that aims to create software without forcing you to use unwanted features.
+SweeZero is a small programming community that aims to create software without forcing you to use unwanted features.
